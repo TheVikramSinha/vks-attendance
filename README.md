@@ -49,7 +49,7 @@ A production-ready PHP MVC attendance tracking system with:
 ### Step 2: Set Up Database
 
 1. **Create MySQL Database**
-   - Go to Hostinger Control Panel → Databases → MySQL Databases
+   - Go to WebHost Control Panel → Databases → MySQL Databases
    - Click "Create Database"
    - Database name: `your_database_name`
    - Username: `your_database_user`
@@ -157,7 +157,7 @@ define('TIMEZONE', 'Asia/Kolkata');  // Change to your timezone
    0 0 31 12 * php /home/your_account/public_html/vks/cron/reset-quotas.php
    ```
 
-**To Add CRON Jobs in Hostinger:**
+**To Add CRON Jobs in WebHost:**
 1. Go to Advanced → Cron Jobs
 2. Click "Create Cron Job"
 3. Enter command and schedule
