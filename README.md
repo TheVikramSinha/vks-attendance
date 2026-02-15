@@ -399,7 +399,7 @@ tail -f logs/php_errors.log
 
 ## 📞 Support
 
-**System Developed By:** VKS Solutions  
+**System Developed By:** Vikram Kumar Sinha  
 **Version:** 1.0  
 **Release Date:** February 15, 2026
 
