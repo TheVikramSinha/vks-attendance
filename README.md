@@ -17,10 +17,9 @@ A production-ready PHP MVC attendance tracking system with:
 
 ## 🚀 Installation Steps
 
-### Step 1: Upload Files to Hostinger
-
+### Step 1: Upload Files to Your WebHost
 1. **Connect via FTP/File Manager**
-   - Login to your Hostinger account
+   - Login to your WebHost account
    - Go to File Manager or use FTP client (FileZilla)
 
 2. **Create Subfolder**
@@ -405,7 +404,7 @@ tail -f logs/php_errors.log
 **Release Date:** February 15, 2026
 
 For technical support:
-- Email: support@vks.local
+- Email: vkslocal@gmail.com
 - Documentation: /vks/docs/
 
 ---
