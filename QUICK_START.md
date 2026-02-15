@@ -9,7 +9,7 @@
 4. Upload all files to `public_html/vks/`
 
 ### Step 2: Database Setup (2 minutes)
-1. Hostinger Panel → Databases → Create Database
+1. WebHost Panel → Databases → Create Database
 2. Note your credentials
 3. Open phpMyAdmin → Select database → Import
 4. Choose `database_schema.sql` → Click "Go"
