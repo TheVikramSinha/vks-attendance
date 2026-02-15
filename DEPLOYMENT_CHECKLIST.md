@@ -7,7 +7,7 @@
 - [ ] MySQL 5.7 or MariaDB 10.3+ installed
 - [ ] Apache with mod_rewrite enabled
 - [ ] HTTPS certificate installed (recommended)
-- [ ] Hostinger hosting account active
+- [ ] WebHost hosting account active
 
 ### 2. File Preparation
 - [ ] All files downloaded/uploaded
@@ -18,7 +18,7 @@
 ## Deployment Steps
 
 ### Step 1: Database Setup
-- [ ] Create MySQL database via Hostinger panel
+- [ ] Create MySQL database via WebHost panel
 - [ ] Note database credentials:
   - Database name: ________________
   - Username: ____________________
