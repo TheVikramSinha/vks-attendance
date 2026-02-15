@@ -3,7 +3,7 @@
 ## 🚀 5-Minute Setup
 
 ### Step 1: Upload Files (2 minutes)
-1. Connect to Hostinger via File Manager or FTP
+1. Connect to WebHost via File Manager or FTP
 2. Navigate to `public_html/`
 3. Create folder: `vks`
 4. Upload all files to `public_html/vks/`
