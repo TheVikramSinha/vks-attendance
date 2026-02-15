@@ -92,12 +92,12 @@ Follow: `README.md`
 
 ## 📋 Immediate Next Steps
 
-1. **Upload to Hostinger:**
+1. **Upload to WebHost:**
    - Extract the `vks-attendance` folder
    - Upload to `public_html/vks/`
 
 2. **Create Database:**
-   - Hostinger Panel → MySQL Databases
+   - WebHost Panel → MySQL Databases
    - Import `database_schema.sql`
 
 3. **Configure:**
@@ -282,7 +282,7 @@ Set to 755 or 777:
 - `public/assets/uploads/`
 
 ### CRON Jobs
-Add these in Hostinger CRON panel:
+Add these in WebHost CRON panel:
 ```bash
 */15 * * * * php /path/to/vks/cron/auto-logout.php
 0 0 31 12 * php /path/to/vks/cron/reset-quotas.php
